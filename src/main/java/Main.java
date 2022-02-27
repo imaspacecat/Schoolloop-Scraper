@@ -6,8 +6,8 @@ import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        final String username = "yotamdubiner";
-        final String password = "bcatnumber1";
+        final String username = "";
+        final String password = "";
         String url = "https://wilcox.schoolloop.com/portal/login";
 
         final WebClient webClient = new WebClient();
